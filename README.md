@@ -1,2 +1,5 @@
 # hello-world
-just another test repository
+
+Hello skaters!
+
+Wallyalot here, I like JS and vert skating.
